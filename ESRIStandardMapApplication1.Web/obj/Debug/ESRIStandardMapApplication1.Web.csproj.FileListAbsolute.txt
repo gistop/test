@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ESRIStandardMapApplication1\ESRIStandardMapApplication1.Web\bin\ESRIStandardMapApplication1.Web.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\ESRIStandardMapApplication1\ESRIStandardMapApplication1.Web\bin\ESRIStandardMapApplication1.Web.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ESRIStandardMapApplication1\ESRIStandardMapApplication1.Web\bin\ESRIStandardMapApplication1.Web.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ESRIStandardMapApplication1\ESRIStandardMapApplication1.Web\obj\Debug\ESRIStandardMapApplication1.Web.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\ESRIStandardMapApplication1\ESRIStandardMapApplication1.Web\obj\Debug\ESRIStandardMapApplication1.Web.dll
+c:\users\administrator\documents\visual studio 2013\Projects\ESRIStandardMapApplication1\ESRIStandardMapApplication1.Web\obj\Debug\ESRIStandardMapApplication1.Web.pdb
